@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FooFish</string>
+    <string name="country_prompt">Select an interval</string>
+
+    <string-array name="interval_arrays">
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+</resources>
